@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monte Carlo testing", "Monte Carlo testing\Monte Carlo testing.csproj", "{B8132EF8-7A81-45BC-B680-C0F7554C4991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing2", "testing2\testing2.csproj", "{2A12DEB1-817A-4E2D-A955-0C286539F223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8132EF8-7A81-45BC-B680-C0F7554C4991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8132EF8-7A81-45BC-B680-C0F7554C4991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8132EF8-7A81-45BC-B680-C0F7554C4991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8132EF8-7A81-45BC-B680-C0F7554C4991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A12DEB1-817A-4E2D-A955-0C286539F223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A12DEB1-817A-4E2D-A955-0C286539F223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A12DEB1-817A-4E2D-A955-0C286539F223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A12DEB1-817A-4E2D-A955-0C286539F223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7269C21-9204-46BB-8BAB-48345A11B071}
+	EndGlobalSection
+EndGlobal
